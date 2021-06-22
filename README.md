@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **Yevhen** (@goncharov965)
 - 👀 I’m interested in *data analytics*
-- 🌱 I’m currently learning Python, SQL, Tableau
+- 🌱 I’m currently learning *Python, SQL, Tableau*
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/goncharov965/)
